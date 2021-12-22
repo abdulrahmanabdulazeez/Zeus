@@ -1,5 +1,5 @@
 # Zeus
-A port scanner. Second version of <b>PortFin</b>. 
+A port scanner. Second version of <b>PortFin</b>. <br>
 Zeus is a tool which scans for open and closed port on a website/host.
 <i>
 ```
