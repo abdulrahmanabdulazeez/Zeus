@@ -1,9 +1,11 @@
 # Zeus
-A port scanner. Second version of <b>portfin</b>.
+A port scanner. Second version of <b>PortFin</b>. 
 Zeus is a tool which scans for open and closed port on a website/host.
+<i>
 ```
-<i>Note: This tool is the second version of PortFin.</i>
+Note: This tool is the second version of PortFin.
 ```
+</i>
 
 # Platform(s)
 * Windows  ✅
