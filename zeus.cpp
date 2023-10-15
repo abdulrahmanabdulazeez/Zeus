@@ -4,6 +4,7 @@
 
 #if defined(_WIN32)
 #include <winsock2.h>
+#pragma comment(lib,"ws2_32.lib")
 
 #else
 #include<sys/socket.h>
@@ -16,7 +17,6 @@
 
 using namespace std;
 
-#pragma comment(lib,"ws2_32.lib")
 
 
     #if defined(_WIN32)
